@@ -4,9 +4,13 @@
 
 <h3> &nbsp;About Me </h3>
 
-My name is Kelsie Richards.  I graduated from Finlandia University in 2018 with my Bachelors degree in Nursing.
-I have been working as a registered nurse for the past 6 years and am pursuing a Masters degree in Health Informatics
-from Michigan Tech University. 
+My name is Kelsie Richards.  I graduated from Finlandia University with my Bachelors degree in Nursing.
+I have been working as a registered nurse for the past 6 years and am currently a graduate student in the Health Informatics
+program at Michigan Tech University. 
+
+<h3> &nbsp; Education </h3>
+- Bachelors of Science in Nursing, Finlandia University, 2018
+- Masters in Health Informatics, Michigan Tech University, 2024
 
 
 
