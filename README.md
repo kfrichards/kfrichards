@@ -9,7 +9,9 @@ I have been working as a registered nurse for the past 6 years and am currently 
 program at Michigan Tech University. 
 
 <h3> &nbsp; Education </h3>
+
 - Bachelors of Science in Nursing, Finlandia University, 2018
+  
 - Masters in Health Informatics, Michigan Tech University, 2024
 
 
