@@ -6,7 +6,8 @@
 
 Hi, my name is Kelsie Richards.  I graduated from Finlandia University with my Bachelors degree in Nursing.
 I have been working as a registered nurse for the past 6 years and am currently a graduate student in the Health Informatics
-program at Michigan Tech University. 
+program at Michigan Tech University. With my clinical background, I offer a valuable skillset including clinical workflow 
+knowledge, interdisciplinary collaboration, documentation expertise, and a patient-centered perspective. 
 
 <h3> &nbsp; Education </h3>
 
